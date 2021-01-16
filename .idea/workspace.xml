@@ -28,7 +28,7 @@
     <property name="DefaultHtmlFileTemplate" value="HTML File" />
     <property name="RunOnceActivity.ShowReadmeOnStart" value="true" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
-    <property name="settings.editor.selected.configurable" value="preferences.pluginManager" />
+    <property name="settings.editor.selected.configurable" value="com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable" />
   </component>
   <component name="SvnConfiguration">
     <configuration />
@@ -44,17 +44,17 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
-    <state x="525" y="21" key="#Notifications" timestamp="1610263712196">
+    <state x="525" y="21" key="#Notifications" timestamp="1610798579324">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="525" y="21" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1610263712196" />
-    <state x="368" y="0" key="SettingsEditor" timestamp="1610264496394">
+    <state x="525" y="21" key="#Notifications/0.0.1366.728@0.0.1366.728" timestamp="1610798579324" />
+    <state x="368" y="0" key="SettingsEditor" timestamp="1610799151616">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="368" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1610264496394" />
-    <state x="585" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1610264411132">
+    <state x="368" y="0" key="SettingsEditor/0.0.1366.728@0.0.1366.728" timestamp="1610799151616" />
+    <state x="585" y="186" key="com.intellij.ide.util.TipDialog" timestamp="1610798571611">
       <screen x="0" y="0" width="1366" height="728" />
     </state>
-    <state x="585" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1610264411132" />
+    <state x="585" y="186" key="com.intellij.ide.util.TipDialog/0.0.1366.728@0.0.1366.728" timestamp="1610798571611" />
   </component>
 </project>
