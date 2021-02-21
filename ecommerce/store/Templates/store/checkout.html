@@ -13,19 +13,42 @@
                             <input class="form-control" type="text" name="name" placeholder="Email.." required>
                         </div>
                     </div>
-                    <div id="shipping-info">
 
+                    <div id="shipping-info">
+                        <hr>
+                        <p>Shipping Information</p>
+                        <div class="form-field">
+                            <input class="form-control" type="text" name="address" placeholder="Address..">
+                        </div>
+                        <div class="form-field">
+                            <input class="form-control" type="text" name="city" placeholder="City..">
+                        </div>
+                        <div class="form-field">
+                            <input class="form-control" type="text" name="state" placeholder="State..">
+                        </div>
+                        <div class="form-field">
+                            <input class="form-control" type="text" name="zipcode" placeholder="Zip code..">
+                        </div>
+                        <div class="form-field">
+                            <input class="form-control" type="text" name="country" placeholder="Country..">
+                        </div>
                     </div>
                     <hr>
-                    <input type="submit" value="continue">
+                    <input id="form-button" class="btn btn-success btn-block" type="submit" value="continue">
                 </form>
             </div>
+
+            <br>
+            <div class="box-element hidden" id="payment-info">
+                <small>Paypal Options</small>
+            </div>
+
         </div>
+
         <div class="col-lg-6">
             <div class="box-element">
 
             </div>
         </div>
-
     </div>
 {% endblock content %}
